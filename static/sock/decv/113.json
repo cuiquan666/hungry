@@ -1,0 +1,25 @@
+{
+    "data":[
+        {
+            "imgUrl":"//fuss10.elemecdn.com/d/fa/946a26707df71c2285741f39783b1png.png?imageMogr/format/webp/thumbnail/150x/",
+            "title":"叫了只炸鸡",
+            "num":"800",
+            "logo":"//fuss10.elemecdn.com/5/55/351af2c75381243a623f36a5d8b9fpng.png"
+        }
+       
+    ],
+    "food":[
+        {
+            "imgUrl":"https://cube.elemecdn.com/2/52/269ac2c25bf5dd8d7000259f8b8adjpeg.jpeg?x-oss-process=image/resize,m_lfit,w_211,h_211/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+            "title":"叫了只鸡（椒盐味 微辣）",
+            "num":"116",
+            "price":"19.9"
+        },
+        {
+            "imgUrl":"https://cube.elemecdn.com/1/ee/bb93a2e83712b677b5f629bb82327jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_211,h_211/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+            "title":"吃鸡大吉大利",
+            "num":"46",
+            "price":"15"
+        }
+    ]
+}

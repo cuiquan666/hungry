@@ -1,0 +1,25 @@
+{
+    "data":[
+        {
+            "imgUrl":"//fuss10.elemecdn.com/f/d4/777209bf4d1e9887fc6597829f2afpng.png?imageMogr/format/webp/thumbnail/150x/",
+            "title":"华莱士炸鸡汉堡(汇龙店)",
+            "num":"204",
+            "logo":"//fuss10.elemecdn.com/9/bb/255231eaf4898e4fe362a2d3a0ed8png.png"
+        }
+       
+    ],
+    "food":[
+        {
+            "imgUrl":"https://cube.elemecdn.com/a/5a/8d61410fbbce45333c20005f39b92jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_211,h_211/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+            "title":"不一样的单人套餐D",
+            "num":"72",
+            "price":"15.3"
+        },
+        {
+            "imgUrl":"https://cube.elemecdn.com/d/4e/3e5b1bd094dccaa036a37b8a1a4d6jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_211,h_211/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+            "title":"痴吃翅盒",
+            "num":"15",
+            "price":"14"
+        }
+    ]
+}
